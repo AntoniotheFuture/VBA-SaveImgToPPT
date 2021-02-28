@@ -1,0 +1,12 @@
+{
+    "name": "xvba-excel-app",
+    "version": "1.0.0",
+    "description": "A XVBA Excel App",
+    "main": "index.js",
+    "author": "LocalSmart",
+    "license": "ISC",
+    "dependencies": {},
+    "devDependencies": {
+        "@localsmart/xvba-cli": "^1.0.2"
+    }
+}
